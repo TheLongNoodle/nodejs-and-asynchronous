@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-and-asynchronous",
+  "version": "1.0.0",
+  "description": "<h1 id=\"nodejs-and-asynchronous-code\"> NodeJS :rocket: and Asynchronous Code :woman_juggling: </h1>",
+  "homepage": "https://github.com/TheLongNoodle/nodejs-and-asynchronous#readme",
+  "bugs": {
+    "url": "https://github.com/TheLongNoodle/nodejs-and-asynchronous/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLongNoodle/nodejs-and-asynchronous.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "inquirer": "^14.2.5",
+    "uuid": "^14.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^10.13.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.7"
+  }
+}
